@@ -66,6 +66,30 @@ p {
     line-height: 1.4;
 }
 
+/*Header Styling*/
+
+header{
+    display:flex;
+    flex-wrap:wrap;
+    margin-left:24%;
+    margin-top:1%;
+}
+
+header img.jumbo{
+    width:69%;
+    padding:3% 0;
+}
+header nav{
+    width:55%;
+    display:flex;
+    justify-content:space-around;
+    align-items:flex-end;
+}
+header nav a{
+    text-decoration:none;
+    color:black;
+}
+
 .container {
     width: 800px;
     margin: 0 auto;
