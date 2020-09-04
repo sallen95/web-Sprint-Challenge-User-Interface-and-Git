@@ -38,7 +38,7 @@ Semantic HTML reinforces the meaning of the HTML. Instead of just worrying about
 
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
 
-
+Display block makes an inline element a block element and vice versa. Block makes it take up it's own line while inline does not. Block also allows you to do some CSS styling to it that inline doesn't allow.
 
 3. What are the 4 areas of the box model?
 
