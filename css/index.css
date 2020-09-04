@@ -222,7 +222,7 @@ footer nav a {
     padding:3% 3% 2% 3%;
 }
 
-.about-images div{
+.about-images div.test-one{
     width:48%;
     border-bottom:1px dashed black;
     margin-bottom:6%;
@@ -230,13 +230,8 @@ footer nav a {
 }
 .about-images img{
     width:100%;
+    padding-bottom:2.5%;
 }
-
-/* .button{
-    background-color:white;
-    border-radius:20%;
-    color:
-} */
 
 a.learn-more{
     display:block;
@@ -245,6 +240,16 @@ a.learn-more{
     color:black;
 }
 
+.test-one a{
+    display:block;
+    padding:5%;
+    text-decoration:none;
+    color:black;
+    margin:2%;
+}
+
+
+/*Styling of the bottom section and footer*/
 
 .work-together{
     margin-bottom:5%;
